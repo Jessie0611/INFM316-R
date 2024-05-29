@@ -5,3 +5,7 @@ font-size: 17px;
 h3{
 color: rgba(219, 100, 9, 0.892);
 }
+p{
+    margin-left: 40px;
+    margin-right: 200px;
+}
