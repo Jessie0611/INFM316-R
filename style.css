@@ -1,6 +1,6 @@
 html{
 margin: 15px;
-font-size: 17px;
+font-size: 15px;
 }
 h3{
 color: rgba(219, 100, 9, 0.892);
@@ -8,4 +8,7 @@ color: rgba(219, 100, 9, 0.892);
 p{
     margin-left: 50px;
     margin-right: 500px;
+}
+a{
+    font-size: 18px;
 }
