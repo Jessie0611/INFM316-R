@@ -1,8 +1,11 @@
 html{
 margin: 15px;
-font-size: 15px;
+font-size: 17px;
 }
-h3{
+h1{
+    margin-left: 50px;
+}
+h2{
 color: rgba(219, 100, 9, 0.892);
 }
 p{
@@ -10,8 +13,8 @@ p{
     margin-right: 500px;
 }
 a{
-    font-size: 18px;
+    font-size: 19px;
 }
 a:hover{
-    font-size: 20px;
+    font-size: 22px;
 }
